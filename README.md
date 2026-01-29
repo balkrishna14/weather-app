@@ -29,5 +29,3 @@ This project is ideal for learning **API integration**, **fetch**, and **DOM man
 - **OpenWeather API** – Real-time weather data  
 
 ---
-
-## 📂 Project Structure
